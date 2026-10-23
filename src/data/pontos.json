@@ -1,0 +1,90 @@
+[
+  {
+    "id": "masp",
+    "nome": "MASP",
+    "categoria": "museu",
+    "descricao": "Museu de Arte de São Paulo, na Avenida Paulista, famoso pelo vão livre de 74 metros.",
+    "curiosidade": "O prédio, projetado por Lina Bo Bardi e inaugurado em 1968, tem um dos maiores vãos livres de concreto do mundo.",
+    "foto": "https://picsum.photos/seed/masp/400/300",
+    "latitude": -23.5614,
+    "longitude": -46.6559,
+    "raioMetros": 200
+  },
+  {
+    "id": "ibirapuera",
+    "nome": "Parque Ibirapuera",
+    "categoria": "parque",
+    "descricao": "Maior parque urbano da cidade, com lagos, ciclovias e prédios de Oscar Niemeyer.",
+    "curiosidade": "O parque foi inaugurado em 1954 para as comemorações dos 400 anos da cidade de São Paulo.",
+    "foto": "https://picsum.photos/seed/ibirapuera/400/300",
+    "latitude": -23.5874,
+    "longitude": -46.6576,
+    "raioMetros": 300
+  },
+  {
+    "id": "se",
+    "nome": "Catedral da Sé",
+    "categoria": "monumento",
+    "descricao": "Catedral neogótica no marco zero da cidade.",
+    "curiosidade": "A Praça da Sé é o marco zero de São Paulo: de lá partem as medições de distância das rodovias do estado.",
+    "foto": "https://picsum.photos/seed/se/400/300",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "raioMetros": 200
+  },
+  {
+    "id": "pinacoteca",
+    "nome": "Pinacoteca do Estado",
+    "categoria": "museu",
+    "descricao": "O museu de artes visuais mais antigo da cidade, instalado em prédio de tijolinhos.",
+    "curiosidade": "Fundada em 1905, a Pinacoteca é o museu de arte mais antigo de São Paulo ainda em funcionamento.",
+    "foto": "https://picsum.photos/seed/pinacoteca/400/300",
+    "latitude": -23.5343,
+    "longitude": -46.6338,
+    "raioMetros": 150
+  },
+  {
+    "id": "theatro",
+    "nome": "Theatro Municipal",
+    "categoria": "monumento",
+    "descricao": "Teatro de estilo eclético inaugurado em 1911, no centro histórico.",
+    "curiosidade": "Foi palco da Semana de Arte Moderna de 1922, marco do modernismo brasileiro.",
+    "foto": "https://picsum.photos/seed/theatro/400/300",
+    "latitude": -23.5452,
+    "longitude": -46.6385,
+    "raioMetros": 150
+  },
+  {
+    "id": "bandeiras",
+    "nome": "Monumento às Bandeiras",
+    "categoria": "monumento",
+    "descricao": "Escultura de Victor Brecheret em homenagem aos bandeirantes, ao lado do Ibirapuera.",
+    "curiosidade": "O conjunto de granito pesa cerca de 240 toneladas e levou mais de 30 anos para ser concluído.",
+    "foto": "https://picsum.photos/seed/bandeiras/400/300",
+    "latitude": -23.5742,
+    "longitude": -46.6603,
+    "raioMetros": 200
+  },
+  {
+    "id": "ipiranga",
+    "nome": "Museu do Ipiranga",
+    "categoria": "museu",
+    "descricao": "Museu Paulista, no local associado à Independência do Brasil.",
+    "curiosidade": "Segundo a tradição, foi às margens do riacho do Ipiranga que Dom Pedro I proclamou a Independência, em 1822.",
+    "foto": "https://picsum.photos/seed/ipiranga/400/300",
+    "latitude": -23.5855,
+    "longitude": -46.6097,
+    "raioMetros": 250
+  },
+  {
+    "id": "mercadao",
+    "nome": "Mercado Municipal",
+    "categoria": "monumento",
+    "descricao": "O Mercadão, conhecido pelos vitrais e pelo sanduíche de mortadela.",
+    "curiosidade": "Inaugurado em 1933, o prédio tem 72 vitrais que retratam cenas da produção agrícola.",
+    "foto": "https://picsum.photos/seed/mercadao/400/300",
+    "latitude": -23.5415,
+    "longitude": -46.6295,
+    "raioMetros": 150
+  }
+]

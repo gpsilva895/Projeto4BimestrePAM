@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Guia Turístico",
+    "slug": "guia-turistico",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.pamii.guiaturistico",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "POST_NOTIFICATIONS"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "COLOQUE_SUA_CHAVE_DO_GOOGLE_MAPS_AQUI"
+        }
+      }
+    },
+    "plugins": [
+      [
+        "expo-location",
+        { "locationWhenInUsePermission": "Precisamos da sua localização para mostrar pontos turísticos próximos." }
+      ],
+      "expo-notifications",
+      [
+        "react-native-android-widget",
+        {
+          "widgets": [
+            {
+              "name": "PontoProximo",
+              "label": "Ponto turístico próximo",
+              "description": "Mostra o monumento mais próximo de você",
+              "minWidth": "250dp",
+              "minHeight": "110dp",
+              "targetCellWidth": 4,
+              "targetCellHeight": 2,
+              "updatePeriodMillis": 1800000
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}

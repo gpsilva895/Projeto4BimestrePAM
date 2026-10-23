@@ -1,0 +1,29 @@
+{
+  "name": "guia-turistico",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "prebuild": "expo prebuild --clean"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "expo": "~52.0.0",
+    "expo-dev-client": "~5.0.6",
+    "expo-location": "~18.0.4",
+    "expo-notifications": "~0.29.9",
+    "expo-sensors": "~14.0.1",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-native": "0.76.5",
+    "react-native-android-widget": "^0.15.1",
+    "react-native-maps": "1.18.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0",
+    "@types/react": "~18.3.12",
+    "typescript": "^5.3.3"
+  },
+  "private": true
+}
